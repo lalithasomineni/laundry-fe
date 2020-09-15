@@ -1,0 +1,203 @@
+.register{
+	background:url("./uploads.jpg");
+	height: 712px;
+
+}
+/*.ulist{
+	list-style-type: none;
+	padding:10px;
+	overflow:hidden;
+}
+.elements{
+	padding:5px;
+}
+
+.shopemail{
+	position:relative;
+	left:100px;
+	top:-28px;
+}
+.slot{
+	position:relative;
+	left:380px;
+	top:-48px;
+}*/
+/*.list{
+	position:relative;
+	top:100px;
+	width:600px;
+	height: 400px;
+	left:380px;
+	background:black;
+	color:white;
+	font-weight:bolder;
+	border-radius:20px;
+	opacity:.8;
+}*/
+/*.price{
+	color:white;
+	font-weight:bolder;
+	text-align:center;
+	position:relative;
+	top:1px;
+}*/
+.pickform{
+
+	background:black;
+	border-radius:20px;
+	position:relative;
+	text-align:center;
+	width:500px;
+	position:relative;
+	left:20px;
+	text-align:center;
+	top:30px;
+	color:white;
+	opacity:.9;
+	padding:25px;
+
+}
+.table{
+	padding:0px 4px;
+	height:300px;
+	position:relative;
+	top:10px;
+	background:white;
+}
+.tablehead{
+	color:white;
+	background: black;
+	position:relative;
+	margin:auto;
+	width:60px;
+	font-size:25px;
+	padding:2px;
+}
+.tabhead{
+	color:white;
+	position:relative;
+	margin:auto;
+	background:black;
+	text-align: center;
+}
+.regform{
+	background:black;
+	position:relative;
+	text-align:center;
+	width:500px;
+	height:500px;
+	top:40px;
+	left:440px;
+	color:white;
+	opacity:.8;
+	padding:25px;
+	border-radius:20px;
+}
+.regtform{
+	background:black;
+	position:relative;
+	text-align:center;
+	width:550px;
+	height:250px;
+	top:80px;
+	left:440px;
+	color:white;
+	opacity:.8;
+	padding:25px;
+	border-radius:20px;
+}
+
+.reghead{
+  text-align:center;
+  font-weight:bold;
+  position:relative;
+  background:black;
+  padding:4px;
+  color:white;
+}
+.pickhead{
+  text-align:center;
+  font-weight:bold;
+  position:relative;
+  background:black;
+  padding:4px;
+  width:1500px;
+  text-align:center;
+  right:210px;
+  color:white;
+  overflow-x: hidden;
+}
+.formhead{
+  text-align:center;
+  font-weight:bold;
+  position:relative;
+  width:1313px;
+  right:400px;
+  background:black;
+  padding:4px;
+  color:white;
+  top:40px;
+}
+.rlabel{
+	width:200px;
+	padding:5px;
+}
+.wlabel{
+	width:200px;
+	padding:3px;
+
+}
+
+.rinput{
+	position:relative;
+	right:25px;
+}
+.rimage{
+	bottom:20px;
+	padding:10px;
+}
+.rbutton{
+	padding:10px;
+}
+.rgbutton{
+	padding:3px;
+	position:relative;
+	top:35px;
+}
+.login{
+	background: url('log.jpg');
+	height:613px;
+	overflow:hidden;
+}
+.logform{
+	background:black;
+	border-radius:20px;
+	position:relative;
+	text-align:center;
+	width:500px;
+	height:250px;
+	top:130px;
+	left:440px;
+	color:white;
+	opacity:.9;
+	padding:25px;
+
+}
+.rglabel{
+	padding:10px;
+}
+.rllabel{
+	padding:10px;
+	position:relative;
+	left:13px;
+}
+.form{
+	background:black;
+	height:300px;
+	border-radius:20px;
+	position:relative;
+	top:90px;
+	opacity:.8;
+	padding:15px;
+	overflow-x:hidden;
+}
